@@ -6,7 +6,19 @@
 
 **Author:** Ashish Valecha
 
+**Role:** Angular Developer
+
+**Core Area:** Angular Architecture
+
+**Location:** Bhiwani, Haryana, India
+
 **Contact:** mrashishvalecha@gmail.com
+
+**Website:** [ashishvalecha.com](https://www.ashishvalecha.com)
+
+**LinkedIn:** [linkedin.com/in/ashish-valecha](https://www.linkedin.com/in/ashish-valecha/)
+
+**Instagram:** [@ashish_valecha__](https://www.instagram.com/ashish_valecha__/)
 
 **Version:** 1.0
 
@@ -18,15 +30,33 @@
 
 ![Book cover](assets/cover.png)
 
+## Dedication
+
+Dedicated to every developer who feels fear, confusion, or pressure in the AI era.
+
+AI has created uncertainty for many software engineers, but it can also become a powerful career upgrade. This book is written to make developers AI-friendly, confident, and ready to build useful products with intelligence inside them.
+
 ## About the Author
 
-Ashish Valecha is a developer and practical technology learner who writes for Indian software engineers upgrading their skills for modern product work. Through this ebook, he helps Angular and React developers understand AI engineering using familiar Indian daily-life examples, Hinglish explanations, and project-based learning.
+Ashish Valecha is an Angular Developer from Bhiwani, Haryana, with a core focus on Angular Architecture. He writes for Indian software engineers who want practical, job-oriented learning without unnecessary fear or jargon.
+
+Through this ebook, Ashish helps frontend developers understand AI engineering using familiar Indian daily-life examples, Hinglish explanations, and project-based learning.
+
+## Who This Book Is For
+
+This book is for everyone who has a little frontend knowledge and wants to become AI-friendly in the AI era.
+
+If you know basic Angular, React, JavaScript, TypeScript, APIs, forms, components, or frontend project work, you can use this book as a bridge into AI engineering.
 
 ---
 
 ## Preface
 
 If you are an Angular or React developer, you already know more about AI engineering than you think.
+
+We are living in the AI era. Many developers are asking the same question quietly: "Kya AI meri job replace kar dega?"
+
+The better question is: "How can I use AI to upgrade myself?"
 
 You know how to call APIs. You know how to handle loading states. You know how forms break when validation is weak. You know how users type weird things into search boxes. You know how real software behaves when network is slow, data is messy, and product managers say, "Bas ek small change hai."
 

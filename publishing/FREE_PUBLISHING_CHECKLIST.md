@@ -71,11 +71,19 @@ Call to action:
 
 Download the free EPUB or read it online.
 
+Author links:
+
+- Website: https://www.ashishvalecha.com
+- LinkedIn: https://www.linkedin.com/in/ashish-valecha/
+- Instagram: https://www.instagram.com/ashish_valecha__/
+
 ## Suggested social post
 
 I am publishing a free ebook for Angular and React developers who want to upgrade into AI engineering.
 
 It uses Indian daily-life examples and Hinglish explanations to cover Python, LLMs, prompts, embeddings, RAG, agents, evaluation, deployment, and portfolio projects.
+
+This is for every frontend developer who feels pressure in the AI era and wants to become AI-friendly instead of fearful.
 
 Read free:
 

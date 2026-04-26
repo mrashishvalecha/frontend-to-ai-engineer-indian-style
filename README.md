@@ -5,9 +5,22 @@ Indian-style practical ebook for Angular and React developers who want to upgrad
 ## Author
 
 Ashish Valecha  
+Angular Developer  
+Core area: Angular Architecture  
+Bhiwani, Haryana, India  
 mrashishvalecha@gmail.com
 
-Ashish Valecha is a developer and practical technology learner who writes for Indian software engineers upgrading their skills for modern product work. This ebook explains AI engineering using familiar Indian daily-life examples, Hinglish explanations, and project-based learning.
+Website: [ashishvalecha.com](https://www.ashishvalecha.com)  
+LinkedIn: [linkedin.com/in/ashish-valecha](https://www.linkedin.com/in/ashish-valecha/)  
+Instagram: [@ashish_valecha__](https://www.instagram.com/ashish_valecha__/)
+
+Ashish Valecha is an Angular Developer from Bhiwani, Haryana, with a core focus on Angular Architecture. He writes for Indian software engineers who want practical, job-oriented learning without unnecessary fear or jargon.
+
+This ebook explains AI engineering using familiar Indian daily-life examples, Hinglish explanations, and project-based learning. It is for everyone with a little frontend knowledge who wants to become AI-friendly in the AI era.
+
+## Dedication
+
+Dedicated to every developer who feels fear, confusion, or pressure in the AI era. AI has created uncertainty for many software engineers, but it can also become a powerful career upgrade.
 
 ## Read and Download
 
